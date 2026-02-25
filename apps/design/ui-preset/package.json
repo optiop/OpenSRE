@@ -30,7 +30,7 @@
     "tailwindcss": "^3.4.3"
   },
   "devDependencies": {
-    "@medusajs/toolbox": "2.13.1",
+    "@opensre/toolbox": "2.13.1",
     "tailwindcss": "^3.4.3"
   },
   "publishConfig": {
